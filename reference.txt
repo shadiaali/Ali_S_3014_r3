@@ -1,1 +1,3 @@
 https://howto.caspio.com/tech-tips-and-articles/common-customizations/create-user-specific-redirect-after-login/
+
+https://stackoverflow.com/questions/15090785/redirecting-to-a-new-page-after-successful-login
